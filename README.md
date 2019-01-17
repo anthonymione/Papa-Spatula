@@ -1,3 +1,4 @@
 # Daddy Kitchen Scraper
  
- // Anthony Mione
+ // Anthony "Pancake Tosser" Mione
+ // Zach "Patty Flipper" Wooding
