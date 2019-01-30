@@ -27,6 +27,10 @@
 	background: grey;
 }
 
+.background2{
+	background-image:url(/Papa-Spatula/Images/alley.jpg");
+}
+
 
 .personal-name{
 	text-align: center;
