@@ -40,19 +40,22 @@
 .assets-grid{
 	display: grid;
   	grid-template-columns: auto auto auto;
-  	grid-gap: 10px;
+  	grid-gap: 5px;
   	grid-auto-rows: minmax(100px, auto);
 	align-content: center;
 }
 
 .name-column{
 	text-align: center;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	
+	
 }
 
 .description-column{
-	
+	border: 1px solid rgba(0, 0, 0, 0.8);
 }
 
 .download-column{
-	
+	border: 1px solid rgba(0, 0, 0, 0.8);
 }
