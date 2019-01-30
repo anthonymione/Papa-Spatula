@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page-header{
+	text-align: center;
+	color: blue;
+  }
+
+.name{
+	text-align: center;
+	font-size: 24px;
+}
+
+.bio-body{
+	margin-right: 300px;
+	margin-left: 300px;
+}
+
+.links{
+	text-align: center;
+	font-size: 20px;
+	margin-right: 700px;
+	margin-left: 700px;
+}
+
+.background{
+	background: grey;
+}
+
+
+.personal-name{
+	text-align: center;
+	font-size: 50px;
+}
+
+.assets-grid{
+	display: grid;
+  	grid-template-columns: auto auto auto;
+  	grid-gap: 10px;
+  	grid-auto-rows: minmax(100px, auto);
+	align-content: center;
+}
+
+.name-column{
+	text-align: center;
+}
+
+.description-column{
+	
+}
+
+.download-column{
+	
+}
