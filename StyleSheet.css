@@ -209,7 +209,7 @@
 	-webkit-transform: scaleX(1);
 	transform: scaleX(1);
 	filter: FlipH;
-	-ms-filter: "FlipH";
+    -ms-filter: "FlipH";
 	transform: rotate(0deg);
 }
 #bee {transition: transform .1s}
