@@ -3,8 +3,6 @@
 	<head>
 		<meta charset="utf-8">
 		<html lang="en">
-		<html class="background">
-
 		<title>Papa-Spatula</title>
 		
 
@@ -12,7 +10,7 @@
 
 	<body>
 		<?php include("nav.html");?>
-		<?php include ("home-page.html");?>
+		<?php include("home-page.html");?>
 		<?php include("spatula-follow.html");?>
 		
 	</body>
