@@ -13,6 +13,7 @@
 	<body>
 		<?php include("nav.html");?>
 		<?php include ("home-page.html");?>
+		<?php include("spatula-follow.html");?>
 		
 	</body>
 			
