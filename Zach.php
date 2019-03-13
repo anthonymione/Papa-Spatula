@@ -7,7 +7,10 @@
 
 <body>
 	<?php include("nav.html");?>
-	<?php include("Zach-Page.html");?>
+	<div>
+		<?php include("Zach-Page.html");?>
+	</div>
+	
 	<?php include("spatula-follow.html");?>
 </body>
 </html>
