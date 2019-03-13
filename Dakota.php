@@ -7,7 +7,7 @@
 
 <body>
 	<?php include("nav.html");?>
-	<?php include("Datkota-Page.html");?>
+	<?php include("Dakota-Page.html");?>
 	<?php include("spatula-follow.html");?>
 </body>
 </html>
