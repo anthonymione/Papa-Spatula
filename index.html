@@ -7,10 +7,23 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
 <link href="StyleSheet.css" rel="stylesheet" type="text/css">
+	<head>
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	</head>
 	
 	
-	
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<body>
+		<div id="nav-placeholder">
+
+		</div>
+
+		<script>
+		$(function(){
+		  $("#nav-placeholder").load("nav.html");
+		});
+		</script>
+	</body>
+	<!--<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<a>
 			<img src="Images/papaSpat.png" width="100" height="126" class="img-fluid img-thumbnail">
 		</a>
@@ -38,7 +51,7 @@
       			</li>
     		</ul>
   		</div>
-	</nav>
+	</nav>-->
 	<!--<div>
 		<div class="topnav">
 			<center><h1 class="group-name">Papa Spatula</h1></center>
